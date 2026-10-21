@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="440" height="285" preserveAspectRatio="xMinYMin meet" viewBox="0 0 440 285" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="440" height="285"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-285)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 48,40 L 405,40 Z" style="stroke: rgb(9%,24%,30%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 48,40 L 48,245 Z" style="stroke: rgb(9%,24%,30%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="10" y="255" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 12px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,510) scale(1,-1)">殖利率 i</text>
+			<text x="310" y="15" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 12px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,30) scale(1,-1)">到期期限 n</text>
+			<path d="M 80,110 L 152,132.5 Z" style="stroke: rgb(9%,24%,30%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 152,132.5 L 224,155 Z" style="stroke: rgb(9%,24%,30%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 224,155 L 296,177.5 Z" style="stroke: rgb(9%,24%,30%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 296,177.5 L 368,200 Z" style="stroke: rgb(9%,24%,30%); stroke-linecap: butt; stroke-width: 2;"/>
+			<circle cx="80" cy="110" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,24%,30%); fill-rule: evenodd;"/>
+			<text x="86" y="116" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,232) scale(1,-1)"></text>
+			<circle cx="152" cy="132.5" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,24%,30%); fill-rule: evenodd;"/>
+			<text x="158" y="138.5" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,277) scale(1,-1)"></text>
+			<circle cx="224" cy="155" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,24%,30%); fill-rule: evenodd;"/>
+			<text x="230" y="161" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,322) scale(1,-1)"></text>
+			<circle cx="296" cy="177.5" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,24%,30%); fill-rule: evenodd;"/>
+			<text x="302" y="183.5" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,367) scale(1,-1)"></text>
+			<circle cx="368" cy="200" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,24%,30%); fill-rule: evenodd;"/>
+			<text x="374" y="206" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,412) scale(1,-1)"></text>
+			<path d="M 80,110 L 152,143.75 Z" style="stroke: rgb(14%,52%,49%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 152,143.75 L 224,177.5 Z" style="stroke: rgb(14%,52%,49%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 224,177.5 L 296,211.25 Z" style="stroke: rgb(14%,52%,49%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 296,211.25 L 368,245 Z" style="stroke: rgb(14%,52%,49%); stroke-linecap: butt; stroke-width: 2;"/>
+			<circle cx="80" cy="110.0" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,52%,49%); fill-rule: evenodd;"/>
+			<text x="86" y="116.0" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(14%,52%,49%); stroke:none;" transform="translate(0,232) scale(1,-1)"></text>
+			<circle cx="152" cy="143.75" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,52%,49%); fill-rule: evenodd;"/>
+			<text x="158" y="149.75" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(14%,52%,49%); stroke:none;" transform="translate(0,299) scale(1,-1)"></text>
+			<circle cx="224" cy="177.5" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,52%,49%); fill-rule: evenodd;"/>
+			<text x="230" y="183.5" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(14%,52%,49%); stroke:none;" transform="translate(0,367) scale(1,-1)"></text>
+			<circle cx="296" cy="211.25" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,52%,49%); fill-rule: evenodd;"/>
+			<text x="302" y="217.25" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(14%,52%,49%); stroke:none;" transform="translate(0,434) scale(1,-1)"></text>
+			<circle cx="368" cy="245.0" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,52%,49%); fill-rule: evenodd;"/>
+			<text x="374" y="251.0" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(14%,52%,49%); stroke:none;" transform="translate(0,502) scale(1,-1)"></text>
+			<text x="65" y="260" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,520) scale(1,-1)">深色：預期理論　綠色：加期限溢酬</text>
+			<text x="76" y="24" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,48) scale(1,-1)">1</text>
+			<text x="148" y="24" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,48) scale(1,-1)">2</text>
+			<text x="220" y="24" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,48) scale(1,-1)">3</text>
+			<text x="292" y="24" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,48) scale(1,-1)">4</text>
+			<text x="364" y="24" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,48) scale(1,-1)">5</text>
+		</g>
+	</g>
+</svg>

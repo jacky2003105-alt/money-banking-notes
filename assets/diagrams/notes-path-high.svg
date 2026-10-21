@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="440" height="285" preserveAspectRatio="xMinYMin meet" viewBox="0 0 440 285" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="440" height="285"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-285)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 48,40 L 405,40 Z" style="stroke: rgb(9%,24%,30%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 48,40 L 48,245 Z" style="stroke: rgb(9%,24%,30%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="14" y="255" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 12px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,510) scale(1,-1)">利率 i</text>
+			<text x="328" y="15" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 12px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,30) scale(1,-1)">時間 t</text>
+			<path d="M 48,140 L 405,140 Z" style="stroke: rgb(39%,47%,50%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 3;"/>
+			<text x="16" y="138" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 11px;fill: rgb(39%,47%,50%); stroke:none;" transform="translate(0,276) scale(1,-1)">i₀</text>
+			<path d="M 100,40 L 100,235 Z" style="stroke: rgb(39%,47%,50%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 3;"/>
+			<text x="90" y="24" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 12px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,48) scale(1,-1)">t₀</text>
+			<path d="M 50 140 L 100 140 L 100 85 C 165 85 220 210 395 210 " style="stroke: rgb(14%,52%,49%); stroke-linecap: butt; stroke-width: 2.5; fill: none; fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="440" height="180" preserveAspectRatio="xMinYMin meet" viewBox="0 0 440 180" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="440" height="180"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-180)" style="clip-path: url(#clip)">
+		<g transform="">
+			<g transform=" matrix(0.48,0,0,0.48,0,0)">
+				<path d="M 48,40 L 405,40 Z" style="stroke: rgb(9%,24%,30%); stroke-linecap: butt; stroke-width: 2;"/>
+				<path d="M 48,40 L 48,245 Z" style="stroke: rgb(9%,24%,30%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text x="15" y="255" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 19px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,510) scale(1,-1)">價格 P</text>
+				<text x="320" y="15" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 19px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,30) scale(1,-1)">債券數量 B</text>
+				<path d="M 60,227 L 380,52 Z" style="stroke: rgb(9%,24%,30%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text x="383.0" y="55.0" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 19px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,110) scale(1,-1)">D₁</text>
+				<path d="M 60,52 L 380,227 Z" style="stroke: rgb(75%,46%,19%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text x="383.0" y="230.0" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 19px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,460) scale(1,-1)">S₁</text>
+				<path d="M 48,139.5 L 220,139.5 Z" style="stroke: rgb(39%,47%,50%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 3;"/>
+				<circle cx="220.0" cy="139.5" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,24%,30%); fill-rule: evenodd;"/>
+				<text x="226.0" y="145.5" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 19px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,291) scale(1,-1)">E₁</text>
+				<path d="M 149.6,227 L 380,101 Z" style="stroke: rgb(14%,52%,49%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text x="383.0" y="104.0" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 19px;fill: rgb(14%,52%,49%); stroke:none;" transform="translate(0,208) scale(1,-1)">D₂</text>
+				<path d="M 48,164 L 264.8,164 Z" style="stroke: rgb(39%,47%,50%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 3;"/>
+				<circle cx="264.8" cy="164.0" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,52%,49%); fill-rule: evenodd;"/>
+				<text x="270.8" y="170.0" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 19px;fill: rgb(14%,52%,49%); stroke:none;" transform="translate(0,340) scale(1,-1)">E₂</text>
+			</g>
+			<g transform=" matrix(0.48,0,0,0.48,220.8,0)">
+				<path d="M 48,40 L 405,40 Z" style="stroke: rgb(9%,24%,30%); stroke-linecap: butt; stroke-width: 2;"/>
+				<path d="M 48,40 L 48,245 Z" style="stroke: rgb(9%,24%,30%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text x="15" y="255" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 19px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,510) scale(1,-1)">價格 P</text>
+				<text x="320" y="15" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 19px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,30) scale(1,-1)">債券數量 B</text>
+				<path d="M 60,227 L 380,52 Z" style="stroke: rgb(9%,24%,30%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text x="383.0" y="55.0" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 19px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,110) scale(1,-1)">D₁</text>
+				<path d="M 60,52 L 380,227 Z" style="stroke: rgb(75%,46%,19%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text x="383.0" y="230.0" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 19px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,460) scale(1,-1)">S₁</text>
+				<path d="M 48,139.5 L 220,139.5 Z" style="stroke: rgb(39%,47%,50%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 3;"/>
+				<circle cx="220.0" cy="139.5" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,24%,30%); fill-rule: evenodd;"/>
+				<text x="226.0" y="145.5" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 19px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,291) scale(1,-1)">E₁</text>
+				<path d="M 60,178 L 290.4,52 Z" style="stroke: rgb(14%,52%,49%); stroke-linecap: butt; stroke-width: 2;"/>
+				<text x="293.4" y="55.0" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 19px;fill: rgb(14%,52%,49%); stroke:none;" transform="translate(0,110) scale(1,-1)">D₂</text>
+				<path d="M 48,115 L 175.2,115 Z" style="stroke: rgb(39%,47%,50%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 3;"/>
+				<circle cx="175.2" cy="115.0" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,52%,49%); fill-rule: evenodd;"/>
+				<text x="181.2" y="121.0" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 19px;fill: rgb(14%,52%,49%); stroke:none;" transform="translate(0,242) scale(1,-1)">E₂</text>
+			</g>
+			<text x="18" y="160" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 12px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,320) scale(1,-1)">市政債免稅</text>
+			<text x="238" y="160" style="font-family: 'Arial Unicode MS', 'PingFang TC', sans-serif; font-size: 12px;fill: rgb(9%,24%,30%); stroke:none;" transform="translate(0,320) scale(1,-1)">應稅公債</text>
+		</g>
+	</g>
+</svg>
