@@ -332,4 +332,4 @@ var sc=document.getElementById('scopeSelect');if(sc)sc.addEventListener('change'
 window.addEventListener('hashchange',function(){setTimeout(refresh,0)});
 window.addEventListener('resize',function(){buildOutline();fitMath();});
 refresh();
-})();</script></html>
+})();</script></html><script id="notes-theme-js">(function(){function go(){var bs=[].slice.call(document.querySelectorAll('button.reveal[aria-expanded="true"]')).filter(function(b){var t=b.getAttribute("data-target");if(t==="figure")return false;var n=b.nextElementSibling;return t===".qa-item"||t===".worked"||t==="next"||(n&&/\b(sol|answer)\b/.test(n.className));});bs.forEach(function(b){b.click();});}if(document.readyState!=="loading")setTimeout(go,0);else document.addEventListener("DOMContentLoaded",function(){setTimeout(go,0);});})();</script>

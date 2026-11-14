@@ -40,4 +40,4 @@ select.addEventListener('change',show);
 document.addEventListener('click',e=>{const b=e.target.closest('button.reveal');if(!b)return;const a=b.closest('.exercise');const fold=!a.classList.contains('folded');a.classList.toggle('folded',fold);b.setAttribute('aria-expanded',String(!fold));b.textContent=fold?'顯示解答':'隱藏解答'});
 function jump(){const el=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(el){select.value='all';show();requestAnimationFrame(()=>el.scrollIntoView())}}
 window.addEventListener('hashchange',jump);show();jump();
-</script></body></html>
+</script><script id="notes-theme-js">(function(){function go(){var bs=[].slice.call(document.querySelectorAll('button.reveal[aria-expanded="true"]')).filter(function(b){var t=b.getAttribute("data-target");if(t==="figure")return false;var n=b.nextElementSibling;return t===".qa-item"||t===".worked"||t==="next"||(n&&/\b(sol|answer)\b/.test(n.className));});bs.forEach(function(b){b.click();});}if(document.readyState!=="loading")setTimeout(go,0);else document.addEventListener("DOMContentLoaded",function(){setTimeout(go,0);});})();</script></body></html>
